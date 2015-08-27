@@ -1,0 +1,9 @@
+{
+  "firebase": "foodbank-nyc",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
